@@ -5,10 +5,8 @@ int b2d(int n)
 {
 int num = n;
    int dec = 0;
-
     int b = 1;
     int temp = num;
-
     while(temp){
         int last = temp % 10;
     temp = temp / 10;
