@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+int novo_metodo() {
+    return 0;
+}
+
 int b2d(int n)
 {
 int num = n;
