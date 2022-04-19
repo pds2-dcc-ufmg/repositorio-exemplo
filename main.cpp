@@ -1,9 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int b2d(int n)
-{
-int num = n;
+int b2d(int n) {
+   int num = n;
    int dec = 0;
     int b = 1;
     int temp = num;
