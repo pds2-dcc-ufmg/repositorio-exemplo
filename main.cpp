@@ -17,6 +17,6 @@ int b2d(int n) {
 
 int main() {
 int n;
-    std::cin >> n;
-    std::cout << b2d(n) << std::endl;
+    cin >> n;
+    cout << b2d(n) << endl;
 }
